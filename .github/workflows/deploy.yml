@@ -3,10 +3,10 @@ name: React Firebase CI/CD
 on:
   push:
     # branches: [master]
-    branches: -main
+    branches: - main
   pull_request:
     # branches: [master]
-    branches: -master
+    branches: - master
 
 jobs:
   build_test_deploy:
