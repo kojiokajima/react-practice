@@ -6,7 +6,7 @@ on:
     branches: - main
   pull_request:
     # branches: [master]
-    branches: - master
+    branches: - main
 
 jobs:
   build_test_deploy:
