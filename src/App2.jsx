@@ -43,7 +43,7 @@ function App() {
       // console.log("resTodo:")
       // console.log(resTodo)  //謎のやつ
       // console.log(resTodo.data()) //Arrayが入ったObject
-      // console.log(resTodo.data().tasks) //Array
+      // console.log(resTodo.data().tasks) //tasksが入ったArray
       // console.log("todoList state")
       // console.log(todoList)
       // console.log(todoList)
